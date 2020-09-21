@@ -1,5 +1,9 @@
 {:journal-basis "daily" 
 
+ ;; Added this on 09-21-2020
+ ;; Uses the file name as the page title instead of the first heading's title
+ :page-name-order "file"
+ 
  :project {
            ;; Selected public notes can be published to https://logseq.com/your-project-or-your-username.
            :name ""
