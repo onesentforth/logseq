@@ -1,5 +1,7 @@
 ---
 title: Indent Test
+published: true
+permalink: indent%20test
 ---
 
 ## Normal
