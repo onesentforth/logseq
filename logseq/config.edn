@@ -6,10 +6,10 @@
  
  :project {
            ;; Selected public notes can be published to https://logseq.com/your-project-or-your-username.
-           :name ""
+           :name "jason"
            :alias ""
            ;; your twitter handle
-           :twitter ""
+           :twitter "onesentforth"
            ;; description supports both hiccup and html
            :description ""}
 
