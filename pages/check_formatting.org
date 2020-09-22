@@ -1,3 +1,0 @@
-#+TITLE: Check Formatting
-
-** Is this different than "markdown?"
